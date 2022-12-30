@@ -1,0 +1,116 @@
+.about-section-container {
+  margin-bottom: 5rem;
+}
+
+.about-section-container .about-section-content-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  gap: 4rem;
+  align-items: flex-start;
+}
+
+.about-section-content-row .item {
+  flex-basis: 46%;
+}
+.about-section-content-row .title {
+  color: #666;
+  font-weight: 500;
+}
+.about-section-content-row .content {
+  display: flex;
+  flex-direction: column;
+  gap: 1.6rem;
+}
+.about-section-content-row .about-section .content p {
+  line-height: 1.6;
+  font-size: 1rem;
+}
+.about-section-content-row .about-section {
+  display: flex;
+  flex-direction: column;
+  gap: 1.6rem;
+}
+.about-section-content-row .job-section {
+  display: flex;
+  flex-direction: column;
+  gap: 1.6rem;
+}
+.job-section .jobs {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.job-section .jobs .years {
+  display: flex;
+  font-size: 0.8rem;
+  color: #999;
+  font-weight: 500;
+}
+.job-section .jobs .job {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 1.3rem;
+}
+
+.job-section .jobs .job .organization {
+  font-weight: 700;
+  font-size: 1.3rem;
+}
+.job-section .jobs .job .location {
+  color: #666;
+}
+.about-section-content-row .skills-section {
+  display: flex;
+  flex-direction: column;
+  gap: 1.6rem;
+}
+
+.skills-section .skills-section-row {
+  display: flex;
+  gap: 3rem;
+}
+
+.skills-section-row .skill-box {
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 25px;
+  flex: 1;
+  gap: 1.2rem;
+}
+.skills-section-row .skill-box .skill {
+  font-weight: 500;
+  font-size: 1.3rem;
+}
+.skills-section-row .skill-box .desc {
+  color: #666;
+  font-size: 0.9rem;
+  height: 100%;
+}
+.skills-section-row .skill-box .icons {
+  display: flex;
+  gap: 0.6rem;
+}
+
+@media (max-width: 720px) {
+  .about-section-content-row .item {
+    flex-basis: 100%;
+  }
+  .skills-section .skills-section-row {
+    flex-wrap: wrap;
+  }
+  .skills-section-row .skill-box {
+    min-width: 100%;
+    box-sizing: border-box;
+  }
+  .contact-section-row .text {
+    min-width: 100%;
+  }
+}

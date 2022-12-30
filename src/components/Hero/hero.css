@@ -1,0 +1,32 @@
+.hero-container {
+  width: 100%;
+  margin: 5rem 0;
+  display: flex;
+  gap: 4rem;
+  align-items: center;
+}
+.hero-container .hero-section.left {
+  /* width: 100%;
+  margin: 5rem 0; */
+  display: flex;
+  flex-direction: column;
+  gap: 1.3rem;
+}
+.hero-container .hero-section.right {
+  width: 60%;
+}
+
+.hero-section .section-icon {
+  font-size: 2rem;
+}
+.hero-section .section-title {
+  font-size: 3rem;
+  font-weight: 700;
+}
+.hero-section .section-desc {
+  font-size: 1.2rem;
+  color: #666;
+}
+.hero-section .section-desc span {
+  color: rgb(58, 58, 58);
+}

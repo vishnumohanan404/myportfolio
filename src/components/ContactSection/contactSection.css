@@ -1,0 +1,37 @@
+.contact-section-container {
+  margin-bottom: 5rem;
+}
+.contact-section-container .contact-section-row {
+  display: flex;
+}
+
+.contact-section-row .text {
+  width: 55%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 2.2rem;
+}
+.contact-section-row .text p {
+  font-size: 1.5rem;
+  color: #666;
+  line-height: 1.4;
+}
+.contact-section-row .button {
+  color: #fff;
+  background: #000;
+  width: fit-content;
+  padding: 1.2rem 1.4rem;
+  font-weight: 800;
+  letter-spacing: 0.8px;
+  border-radius: 10px;
+  font-size: 1rem;
+  transition: color 0.4s ease 0s, background-color 0.4s ease 0s,
+    box-shadow 0.4s ease 0s;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.contact-section-row .button:hover {
+  background-color: #397aff;
+}

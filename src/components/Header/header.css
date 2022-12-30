@@ -1,0 +1,26 @@
+.header-border-container {
+  border-bottom: 1px solid #66666630;
+}
+.header-container {
+  max-width: 1040px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+}
+
+.header-container .header-menu-container {
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+}
+
+.header-menu-container .menu-item {
+  /* color: grey; */
+}
+.header-menu-container .menu-item a {
+  color: #666;
+  text-decoration: none;
+  font-family: "Helvetica Now", sans-serif;
+  text-transform: capitalize;
+}
