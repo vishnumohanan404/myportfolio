@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.6ce0f422.css",
+    "main.js": "/myportfolio/static/js/main.f8a32fef.js",
+    "static/js/787.128fc6e9.chunk.js": "/myportfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/react.svg": "/myportfolio/static/media/react.a060cbe85e50deda1d61452cee9de5b2.svg",
+    "static/media/adobexd.svg": "/myportfolio/static/media/adobexd.dbda90562b56230f6bca251cae38beb4.svg",
+    "static/media/javascript.svg": "/myportfolio/static/media/javascript.081325c6f229605dce15142ddd948d6d.svg",
+    "index.html": "/myportfolio/index.html",
+    "static/media/angularjs.svg": "/myportfolio/static/media/angularjs.f9ef2acacb9c7dcc60c405977c26f5fe.svg",
+    "static/media/figma.svg": "/myportfolio/static/media/figma.44ca2c329ade686d78f62ad73790c621.svg",
+    "static/media/flutter.svg": "/myportfolio/static/media/flutter.048226813aa67d3b9c69de4b27f7c1fa.svg",
+    "static/media/arrow.svg": "/myportfolio/static/media/arrow.9acff389572234e1fd6ebcc3e7b29e34.svg",
+    "main.6ce0f422.css.map": "/myportfolio/static/css/main.6ce0f422.css.map",
+    "main.f8a32fef.js.map": "/myportfolio/static/js/main.f8a32fef.js.map",
+    "787.128fc6e9.chunk.js.map": "/myportfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ce0f422.css",
+    "static/js/main.f8a32fef.js"
+  ]
+}
