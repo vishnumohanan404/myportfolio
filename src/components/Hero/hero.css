@@ -30,3 +30,9 @@
 .hero-section .section-desc span {
   color: rgb(58, 58, 58);
 }
+
+@media (max-width: 720px) {
+  .hero-container .hero-section.right {
+    display: none;
+  }
+}

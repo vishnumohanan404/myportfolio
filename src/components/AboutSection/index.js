@@ -41,19 +41,18 @@ const AboutSection = () => {
         name={"about"}
         title={"About"}
         icon={"🥷"}
-        linkName={"View LinkedIn"}
-        link={"https://www.linkedin.com/in/vishnu-mohan-470971179/"}
+        linkName={"View Profile"}
+        link={"https://vishnumohanan.hashnode.dev/"}
       />
       <div className="about-section-content-row">
         <div className="about-section item">
           <div className="title">My Story</div>
           <div className="content">
             <p>
-              My name is Vishnu Mohanan and I am a college dropout turned full
-              stack developer. I started working in my current role in 2021,
-              during the COVID-19 pandemic. The pandemic situation actually
-              motivated me to become more interested in technology and its
-              advancements.
+              I am a college dropout turned full stack developer. I started
+              working in my current role in 2021, during the COVID-19 pandemic.
+              The pandemic situation actually motivated me to become more
+              interested in technology and its advancements.
             </p>
             <p>
               I have a passion for front end development, as I love the feeling

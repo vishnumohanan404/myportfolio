@@ -8,7 +8,8 @@ const ContactSection = () => {
         name={"contact"}
         title={"Contact"}
         icon={"🤙"}
-        linkName={false}
+        linkName={"View LinkedIn"}
+        link={"https://www.linkedin.com/in/vishnu-mohan-470971179/"}
       />
       <div className="contact-section-row">
         <div className="text">
