@@ -8,8 +8,8 @@ const Hero = () => {
         <div className="section-icon">👋</div>
         <div className="section-title">Hello, I am Vishnu Mohanan</div>
         <div className="section-desc">
-          I am a <span>software dev</span> with 1+ years of experience, focusing on
-          UI/UX development and interested in case studies of the same.
+          I am a <span>hobbyist programmer</span>, primarily focused on building
+          and talking about UI/UX<span>s</span>.
         </div>
       </div>
       <div className="hero-section right">

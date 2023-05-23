@@ -15,7 +15,7 @@ const AboutSection = () => {
       endYear: "Present",
       organization: "Rhombuz.io",
       location: "Seattle, WA",
-      position: "Full Stack Developer",
+      position: "Engineer",
     },
   ];
   const skills = [
@@ -49,21 +49,26 @@ const AboutSection = () => {
           <div className="title">My Story</div>
           <div className="content">
             <p>
-              I am a college dropout turned full stack developer. I started
-              working in my current role in 2021, during the COVID-19 pandemic.
-              The pandemic situation actually motivated me to become more
-              interested in technology and its advancements.
+              My journey began in 2021, coinciding with the pandemic. I started
+              exploring different facets of software development during that
+              time and found myself increasingly hooked by technology and its
+              rapid advancements.
             </p>
             <p>
-              I have a passion for front end development, as I love the feeling
-              of creating visually appealing interfaces and experiences for
-              users. I am also interested in UI/UX design, web technologies, and
-              mobile app development.
+              I began by learning the fundamentals of software development and
+              currently, I am deeply focused on the frontend part of software.
+              It excites me to be involved in the process of creating visually
+              appealing and highly functional interfaces and experiences for
+              users.
+            </p>
+            <p>
+              An essential aspect of my work is my unwavering attention to
+              detail and adherence to the design process. It is important to me.
             </p>
             <p>
               I am excited to continue learning and growing in my career as a
               developer, and I am always looking for new challenges and
-              opportunities to expand my skillset.
+              opportunities to expand my skill set.
             </p>
           </div>
         </div>
