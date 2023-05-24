@@ -55,20 +55,23 @@ const AboutSection = () => {
               rapid advancements.
             </p>
             <p>
-              I began by learning the fundamentals of software development and
-              currently, I am deeply focused on the frontend part of software.
-              It excites me to be involved in the process of creating visually
-              appealing and highly functional interfaces and experiences for
-              users.
+              I began by learning the fundamentals of software development, and
+              currently, I spend most of my time in the world of UI/UX. <br />
+              Apart from that, my hobbies include watching and reading about
+              design case studies and news about when and how AIs will take over
+              the world.
             </p>
             <p>
               An essential aspect of my work is my unwavering attention to
-              detail and adherence to the design process. It is important to me.
+              detail and adherence to the design process. It excites me to be
+              involved in the process of creating visually appealing and highly
+              functional interfaces and experiences for users.
             </p>
             <p>
-              I am excited to continue learning and growing in my career as a
-              developer, and I am always looking for new challenges and
-              opportunities to expand my skill set.
+              I am excited to continue learning and growing with a positive
+              attitude. <br />
+              Like the cartoon Bob the builder says 'Can we fix it? Yes we can!'
+              if possible with a smile on the face 
             </p>
           </div>
         </div>
