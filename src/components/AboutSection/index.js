@@ -71,7 +71,7 @@ const AboutSection = () => {
               I am excited to continue learning and growing with a positive
               attitude. <br />
               Like the cartoon Bob the builder says 'Can we fix it? Yes we can!'
-              if possible with a smile on the face 
+              if possible with a smile.
             </p>
           </div>
         </div>
