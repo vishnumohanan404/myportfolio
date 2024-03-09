@@ -27,11 +27,24 @@
   border-radius: 10px;
   font-size: 1rem;
   transition: color 0.4s ease 0s, background-color 0.4s ease 0s,
-    box-shadow 0.4s ease 0s;
+    opacity 0.4s ease 0s, box-shadow 0.4s ease 0s;
   cursor: pointer;
   text-decoration: none;
 }
 
 .contact-section-row .button:hover {
   background-color: #397aff;
+}
+
+.contact-buttons {
+  display: flex;
+  gap: 1rem;
+}
+
+.contact-buttons .linktree {
+  background-color: #397aff;
+}
+
+.contact-buttons .linktree:hover {
+  opacity: 80%;
 }

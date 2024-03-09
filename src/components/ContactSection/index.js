@@ -17,12 +17,20 @@ const ContactSection = () => {
             Are you interested in collaborating or want to connect or chat? If
             so, hit the contact button down below or contact me via LinkedIn.
           </p>
-          <a
-            href="mailto:vishnumohan1996nov@gmail.com?subject=Hello"
-            className="button"
-          >
-            Contact Me
-          </a>
+          <div className="contact-buttons">
+            <a
+              href="mailto:vishnumohan1996nov@gmail.com?subject=Hello"
+              className="button"
+            >
+              Contact Me
+            </a>
+            <a
+              href="https://linktr.ee/vishnumohanan"
+              className="button linktree"
+            >
+              Linktree
+            </a>
+          </div>
         </div>
       </div>
     </div>
